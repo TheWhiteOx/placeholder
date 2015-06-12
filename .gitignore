@@ -67,6 +67,9 @@ crashlytics-build.properties
 #angular files
 public/lib
 
+#jasmine test files
+public/jasmine
+public/SpecRunner.html
 
 
 
